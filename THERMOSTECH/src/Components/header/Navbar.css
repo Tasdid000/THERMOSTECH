@@ -1,0 +1,9 @@
+.text{
+    color: #2969a9;
+    font-weight: 600
+}
+
+.text:hover{
+    color: #FFC107;
+    background-color: none;
+}
